@@ -2,7 +2,8 @@ import os
 import discord
 import asyncio
 
-Token = 'NzQxNzEyODg3NTQxNjYxODE2.Xy7j9A.6TbHGMWXQI-MbLxHn6ge7g2wU1g'
+Token = 'tocken'
+
 
 class MyClient(discord.Client):
     async def on_ready(self):
